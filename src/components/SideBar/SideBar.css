@@ -1,0 +1,13 @@
+.sidebar {
+  height: 100%;
+  width: 25%;
+  background-color: gainsboro;
+  z-index: 10;
+  position: absolute;
+  color: #3e3e3e;
+  padding: 1%;
+}
+
+.sidebar h1 {
+  margin-top: 5px;
+}
