@@ -1,5 +1,11 @@
 {
     "type": "FeatureCollection",
+    "globeType": "polygon",
+    "center": {
+        "lat": -40, 
+        "lng": 174, 
+        "altitude": 0.6
+    },
     "features": [
         {
             "type": "Feature",

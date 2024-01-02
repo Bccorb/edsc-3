@@ -7,11 +7,13 @@ import "./GlobeGL.css";
 
 function GlobeGL(props) {
   const globalEl = useRef(null);
-  const globeType = props.globeType || "points";
+  const globeType = props.globeType || "null";
 
   const [points, setPoints] = useState([]);
+  const [polygon, setPolygon] = useState({})
 
-  const centerOnLocation  = (lat, lng) => {
+
+  const centerOnLocation = (lat, lng) => {
     console.log("moving the globe", lat, lng)
     globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 0.6 }, 4000)
   }
@@ -23,34 +25,54 @@ function GlobeGL(props) {
     //   globalEl.current.controls().autoRotate = true;
     //   globalEl.current.controls().autoRotateSpeed = 0.1;
     // }
+  }, [globeType]);
 
-    setPoints(volcanos)
-  }, []);
+  useEffect(() => {
+    if (props.center) {
+      centerOnLocation(props.center.lat, props.center.lng)
+    }
+  }, [props.center])
 
   // TODO pull this map down locally and have it use that we may have to branch react-globe.gl
   if (globeType === "points") {
     return (
-    <div className="globe">
+      <div className="globe">
+        <Globe
+          ref={globalEl}
+          globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
+          bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+          backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+          hexBinPointsData={points}
+          hexAltitude={.01}
+          hexMargin={0}
+          hexTopCurvatureResolution={2}
+          hexBinResolution={3}
+          hexSideColor={() => 'pink'}
+          hexTopColor={() => 'red'}
+          hexBinMerge={false}
+          enablePointerInteraction={true}
+          onHexClick={(d) => {
+            centerOnLocation(d.points[0].lat, d.points[0].lng)
+          }
+          }
+        />
+      </div>
+    );
+  };
+
+  if (globeType === "polygon") {
+    return (
       <Globe
         ref={globalEl}
         globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
         bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
-        hexBinPointsData={points}
-        hexAltitude={.01}
-        hexMargin={0}
-        hexTopCurvatureResolution={2}
-        hexBinResolution={3}
-        hexSideColor={() => 'pink'}
-        hexTopColor={() => 'red'}
-        hexBinMerge={false}
-        enablePointerInteraction={true}
-        onHexClick={(d) => { 
-          centerOnLocation(d.points[0].lat, d.points[0].lng)}}
+        polygonsData={props.focusedCollection}
+        polygonCapColor={() => '#FFA500'}
+        onPolygonClick={() => { centerOnLocation(76.2, 100.1) }}
       />
-    </div>
-  );
-}
+    )
+  }
 }
 
 export default GlobeGL;
