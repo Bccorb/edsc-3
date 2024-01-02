@@ -5,6 +5,7 @@ import ecuador from './assets/geoJson/ecuador.json';
 import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
 import spain from './assets/geoJson/spain.json';
+import volcanos from './assets/geoJson/volcanos.json';
 
 import "./App.css";
 import { useState } from "react";
@@ -33,6 +34,11 @@ function App() {
       description: "The country geodata",
       collection: newZealand
     },
+    {
+      title:"Volcano Research study",
+      description: "A study involving volcanos",
+      collection: volcanos
+    }
   ]
 
   return (

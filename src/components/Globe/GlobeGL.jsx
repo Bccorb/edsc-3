@@ -1,6 +1,4 @@
 import { useRef, useState, useEffect } from "react";
-import newZealand from '../../assets/geoJson/newZealandSouthIsland.json';
-import volcanos from '../../assets/geoJson/volcanos';
 import Globe from "react-globe.gl";
 
 import "./GlobeGL.css";
@@ -25,6 +23,9 @@ function GlobeGL(props) {
     //   globalEl.current.controls().autoRotate = true;
     //   globalEl.current.controls().autoRotateSpeed = 0.1;
     // }
+    if(globeType === "points"){
+      setPoints(props.focusedCollection.points)
+    }
   }, [globeType]);
 
   useEffect(() => {
@@ -57,8 +58,8 @@ function GlobeGL(props) {
           }
         />
       </div>
-    );
-  };
+    )
+  }
 
   if (globeType === "polygon") {
     return (
