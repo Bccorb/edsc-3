@@ -4,9 +4,15 @@ import SideBar from "./components/SideBar/SideBar";
 import "./App.css";
 
 function App() {
+  const mockCollections = [
+    {
+      title: "Afghanistan",
+      description: "The country geodata"
+    }
+  ]
   return (
     <>
-      <SideBar />
+      <SideBar collections={mockCollections} />
       <GlobeGL />
     </>
   );

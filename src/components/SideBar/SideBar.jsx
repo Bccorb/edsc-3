@@ -1,6 +1,9 @@
+import CollectionCard from "../CollectionCard/CollectionCard";
 import "./SideBar.css";
 
-function SideBar() {
+function SideBar(props) {
+  const collections = props.collections || [];
+
   return (
     <div className="sidebar">
       <small>Close filter</small>
@@ -10,6 +13,10 @@ function SideBar() {
 
         <button type="button">Search</button>
       </form>
+
+      <div className="collection-list">
+        {collections.map((collectionData, i) => <CollectionCard collection={collectionData} key={i} />)}
+      </div>
     </div>
   );
 }
