@@ -1,8 +1,9 @@
 import GlobeGL from "./components/Globe/GlobeGL";
 import SideBar from "./components/SideBar/SideBar";
 
+import ecuador from './assets/geoJson/ecuador.json';
+import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
-import afghanistan from './assets/geoJson/afghanistan.json';
 import spain from './assets/geoJson/spain.json';
 
 import "./App.css";
@@ -13,15 +14,25 @@ function App() {
 
   const mockCollections = [
     {
-      title: "Afghanistan",
+      title: "Ecuador",
       description: "The country geodata",
-      collection: afghanistan
+      collection: ecuador
     },
     {
       title: "Spain",
       description: "The country geodata",
       collection: spain
-    }
+    },
+    {
+      title: "United States of America",
+      description: "The country geodata",
+      collection: usa
+    },
+    {
+      title: "New Zealand",
+      description: "The country geodata",
+      collection: newZealand
+    },
   ]
 
   return (
