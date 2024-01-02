@@ -3,8 +3,7 @@
     "globeType": "polygon",
     "center": {
         "lat": -40, 
-        "lng": 174, 
-        "altitude": 0.6
+        "lng": 174
     },
     "features": [
         {

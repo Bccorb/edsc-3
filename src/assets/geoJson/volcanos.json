@@ -5,7 +5,8 @@
     "type": "Shield",
     "lat": 34.5,
     "lng": 131.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 641
   },
   {
@@ -14,7 +15,8 @@
     "type": "Stratovolcano",
     "lat": -23.3,
     "lng": -67.62,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 6046
   },
   {
@@ -23,7 +25,8 @@
     "type": "Stratovolcano",
     "lat": 14.5,
     "lng": -90.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3976
   },
   {
@@ -32,7 +35,8 @@
     "type": "Caldera",
     "lat": 38.57,
     "lng": 34.52,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1689
   },
   {
@@ -41,7 +45,8 @@
     "type": "Stratovolcano",
     "lat": 46.21,
     "lng": -121.49,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3742
   },
   {
@@ -50,7 +55,8 @@
     "type": "Submarine",
     "lat": -25.37,
     "lng": -129.27,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -39
   },
   {
@@ -59,7 +65,8 @@
     "type": "Stratovolcano",
     "lat": 37.64,
     "lng": 140.29,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1718
   },
   {
@@ -68,7 +75,8 @@
     "type": "Stratovolcano",
     "lat": 10.07,
     "lng": 40.84,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1733
   },
   {
@@ -77,7 +85,8 @@
     "type": "Stratovolcano",
     "lat": 13.08,
     "lng": 40.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1295
   },
   {
@@ -86,7 +95,8 @@
     "type": "Stratovolcano",
     "lat": 18.77,
     "lng": 145.67,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 965
   },
   {
@@ -95,7 +105,8 @@
     "type": "Stratovolcano",
     "lat": 14.47,
     "lng": -90.74,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3760
   },
   {
@@ -104,7 +115,8 @@
     "type": "Stratovolcano",
     "lat": 37.77,
     "lng": -25.47,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 947
   },
   {
@@ -113,7 +125,8 @@
     "type": "Stratovolcano",
     "lat": -50.33,
     "lng": -73.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2546
   },
   {
@@ -122,7 +135,8 @@
     "type": "Stratovolcano",
     "lat": -8.34,
     "lng": 115.51,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3142
   },
   {
@@ -131,7 +145,8 @@
     "type": "Submarine",
     "lat": 20.42,
     "lng": 145.03,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -137
   },
   {
@@ -140,7 +155,8 @@
     "type": "Caldera",
     "lat": 53.98,
     "lng": 159.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1180
   },
   {
@@ -149,7 +165,8 @@
     "type": "Stratovolcano",
     "lat": 36.56,
     "lng": 139.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1828
   },
   {
@@ -158,7 +175,8 @@
     "type": "Caldera",
     "lat": 43.38,
     "lng": 144.01,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1499
   },
   {
@@ -167,7 +185,8 @@
     "type": "Shield",
     "lat": 55.43,
     "lng": 158.65,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1956
   },
   {
@@ -176,7 +195,8 @@
     "type": "Stratovolcano",
     "lat": 39.76,
     "lng": 140.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1637
   },
   {
@@ -185,7 +205,8 @@
     "type": "Stratovolcano",
     "lat": 39.96,
     "lng": 140.76,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1366
   },
   {
@@ -194,7 +215,8 @@
     "type": "Stratovolcano",
     "lat": 29.46,
     "lng": 129.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 584
   },
   {
@@ -203,7 +225,8 @@
     "type": "Stratovolcano",
     "lat": 54.13,
     "lng": -165.99,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1303
   },
   {
@@ -212,7 +235,8 @@
     "type": "Stratovolcano",
     "lat": 50.86,
     "lng": 155.55,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2339
   },
   {
@@ -221,7 +245,8 @@
     "type": "Stratovolcano",
     "lat": 17.6,
     "lng": 145.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 744
   },
   {
@@ -230,7 +255,8 @@
     "type": "Shield",
     "lat": 12.88,
     "lng": 40.57,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1501
   },
   {
@@ -239,7 +265,8 @@
     "type": "Caldera",
     "lat": 41.73,
     "lng": 12.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 949
   },
   {
@@ -248,7 +275,8 @@
     "type": "Shield",
     "lat": -0.43,
     "lng": -91.12,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1130
   },
   {
@@ -257,7 +285,8 @@
     "type": "Stratovolcano",
     "lat": 13.52,
     "lng": 40.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1031
   },
   {
@@ -266,7 +295,8 @@
     "type": "Stratovolcano",
     "lat": 14.88,
     "lng": 39.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 904
   },
   {
@@ -275,7 +305,8 @@
     "type": "",
     "lat": -22.44,
     "lng": -67.96,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4600
   },
   {
@@ -284,7 +315,8 @@
     "type": "Shield",
     "lat": -16.25,
     "lng": 168.12,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1334
   },
   {
@@ -293,7 +325,8 @@
     "type": "Stratovolcano",
     "lat": 16.35,
     "lng": 145.67,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 790
   },
   {
@@ -302,7 +335,8 @@
     "type": "Stratovolcano",
     "lat": -20.2,
     "lng": 169.78,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 852
   },
   {
@@ -311,7 +345,8 @@
     "type": "Caldera",
     "lat": 56.88,
     "lng": -158.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1341
   },
   {
@@ -320,7 +355,8 @@
     "type": "Stratovolcano",
     "lat": -0.48,
     "lng": -78.14,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5753
   },
   {
@@ -329,7 +365,8 @@
     "type": "Shield",
     "lat": -15.4,
     "lng": 167.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1496
   },
   {
@@ -338,7 +375,8 @@
     "type": "Stratovolcano",
     "lat": 39.7,
     "lng": 44.3,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5165
   },
   {
@@ -347,7 +385,8 @@
     "type": "Stratovolcano",
     "lat": 10.46,
     "lng": -84.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1670
   },
   {
@@ -356,7 +395,8 @@
     "type": "Complex Volcano",
     "lat": -18.73,
     "lng": -69.05,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5597
   },
   {
@@ -365,7 +405,8 @@
     "type": "Stratovolcano",
     "lat": 52.36,
     "lng": 157.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1910
   },
   {
@@ -374,7 +415,8 @@
     "type": "Complex Volcano",
     "lat": 36.4,
     "lng": 138.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2568
   },
   {
@@ -383,7 +425,8 @@
     "type": "Stratovolcano",
     "lat": -7.95,
     "lng": -14.37,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 858
   },
   {
@@ -392,7 +435,8 @@
     "type": "Stratovolcano",
     "lat": 65.03,
     "lng": -16.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1516
   },
   {
@@ -401,7 +445,8 @@
     "type": "Caldera",
     "lat": 32.88,
     "lng": 131.11,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1592
   },
   {
@@ -410,7 +455,8 @@
     "type": "Complex Volcano",
     "lat": 14.58,
     "lng": -91.19,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3535
   },
   {
@@ -419,7 +465,8 @@
     "type": "Caldera",
     "lat": 52.38,
     "lng": -174.15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1533
   },
   {
@@ -428,7 +475,8 @@
     "type": "Stratovolcano",
     "lat": 44.81,
     "lng": 147.14,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1206
   },
   {
@@ -437,7 +485,8 @@
     "type": "Dome",
     "lat": 59.36,
     "lng": -153.43,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1252
   },
   {
@@ -446,7 +495,8 @@
     "type": "Stratovolcano",
     "lat": 53.26,
     "lng": 158.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2741
   },
   {
@@ -455,7 +505,8 @@
     "type": "Stratovolcano",
     "lat": 3.67,
     "lng": 125.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1320
   },
   {
@@ -464,7 +515,8 @@
     "type": "Submarine",
     "lat": 45.95,
     "lng": -130,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -1410
   },
   {
@@ -473,7 +525,8 @@
     "type": "Stratovolcano",
     "lat": 10.08,
     "lng": 40.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2145
   },
   {
@@ -482,7 +535,8 @@
     "type": "Complex Volcano",
     "lat": -21.79,
     "lng": -68.24,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5846
   },
   {
@@ -491,7 +545,8 @@
     "type": "Stratovolcano",
     "lat": 37.73,
     "lng": 140.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2035
   },
   {
@@ -500,7 +555,8 @@
     "type": "Stratovolcano",
     "lat": 19.5,
     "lng": 121.9,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1180
   },
   {
@@ -509,7 +565,8 @@
     "type": "Stratovolcano",
     "lat": 43.8,
     "lng": -121.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2763
   },
   {
@@ -518,7 +575,8 @@
     "type": "Cinder Cone",
     "lat": -6.1,
     "lng": 155.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1750
   },
   {
@@ -527,7 +585,8 @@
     "type": "Stratovolcano",
     "lat": 48.79,
     "lng": -121.82,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3285
   },
   {
@@ -536,7 +595,8 @@
     "type": "Stratovolcano",
     "lat": -3.6,
     "lng": 144.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 685
   },
   {
@@ -545,7 +605,8 @@
     "type": "Stratovolcano",
     "lat": -5.2,
     "lng": 151.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2248
   },
   {
@@ -554,7 +615,8 @@
     "type": "Stratovolcano",
     "lat": 37.6,
     "lng": 140.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1819
   },
   {
@@ -563,7 +625,8 @@
     "type": "Pyroclastic Cone",
     "lat": 12.29,
     "lng": 93.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 305
   },
   {
@@ -572,7 +635,8 @@
     "type": "Complex Volcano",
     "lat": 2.32,
     "lng": 36.57,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1032
   },
   {
@@ -581,7 +645,8 @@
     "type": "Stratovolcano",
     "lat": 28,
     "lng": 60,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3490
   },
   {
@@ -590,7 +655,8 @@
     "type": "Stratovolcano",
     "lat": 71.1,
     "lng": -8.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2277
   },
   {
@@ -599,7 +665,8 @@
     "type": "Shield",
     "lat": 44.28,
     "lng": -121.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2096
   },
   {
@@ -608,7 +675,8 @@
     "type": "Stratovolcano",
     "lat": 55.98,
     "lng": 160.58,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2882
   },
   {
@@ -617,7 +685,8 @@
     "type": "Complex Volcano",
     "lat": 11.5,
     "lng": 124.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1187
   },
   {
@@ -626,7 +695,8 @@
     "type": "Stratovolcano",
     "lat": 54.32,
     "lng": 160.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1720
   },
   {
@@ -635,7 +705,8 @@
     "type": "Stratovolcano",
     "lat": 12.8,
     "lng": 124.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1565
   },
   {
@@ -644,7 +715,8 @@
     "type": "Maar",
     "lat": 8.05,
     "lng": 38.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2281
   },
   {
@@ -653,7 +725,8 @@
     "type": "Stratovolcano",
     "lat": 4.2,
     "lng": 9.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4095
   },
   {
@@ -662,7 +735,8 @@
     "type": "Stratovolcano",
     "lat": 18.83,
     "lng": 121.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 712
   },
   {
@@ -671,7 +745,8 @@
     "type": "Stratovolcano",
     "lat": 10.41,
     "lng": 123.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2435
   },
   {
@@ -680,7 +755,8 @@
     "type": "Cinder Cone",
     "lat": 36.45,
     "lng": -104.09,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2494
   },
   {
@@ -689,7 +765,8 @@
     "type": "Volcanic Field",
     "lat": 33.7,
     "lng": -106,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1730
   },
   {
@@ -698,7 +775,8 @@
     "type": "Stratovolcano",
     "lat": 0.03,
     "lng": -77.99,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5790
   },
   {
@@ -707,7 +785,8 @@
     "type": "Stratovolcano",
     "lat": -6.9,
     "lng": 108.41,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3078
   },
   {
@@ -716,7 +795,8 @@
     "type": "Dome",
     "lat": 45.78,
     "lng": 2.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1464
   },
   {
@@ -725,7 +805,8 @@
     "type": "Stratovolcano",
     "lat": 57.13,
     "lng": -156.99,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2067
   },
   {
@@ -734,7 +815,8 @@
     "type": "Stratovolcano",
     "lat": 50.33,
     "lng": 155.46,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5958
   },
   {
@@ -743,7 +825,8 @@
     "type": "Stratovolcano",
     "lat": -1.46,
     "lng": -78.82,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 6310
   },
   {
@@ -752,7 +835,8 @@
     "type": "Stratovolcano",
     "lat": 52.83,
     "lng": -169.95,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1730
   },
   {
@@ -761,7 +845,8 @@
     "type": "Caldera",
     "lat": 13.86,
     "lng": -89.54,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 746
   },
   {
@@ -770,7 +855,8 @@
     "type": "Stratovolcano",
     "lat": 19.51,
     "lng": -103.62,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4100
   },
   {
@@ -779,7 +865,8 @@
     "type": "Stratovolcano",
     "lat": 11.5,
     "lng": -85.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1610
   },
   {
@@ -788,7 +875,8 @@
     "type": "Stratovolcano",
     "lat": -37.85,
     "lng": -71.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2965
   },
   {
@@ -797,7 +885,8 @@
     "type": "Shield",
     "lat": 12.98,
     "lng": -87.56,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 847
   },
   {
@@ -806,7 +895,8 @@
     "type": "Stratovolcano",
     "lat": -0.68,
     "lng": -78.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5911
   },
   {
@@ -815,7 +905,8 @@
     "type": "Caldera",
     "lat": 42.94,
     "lng": -122.11,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2471
   },
   {
@@ -824,7 +915,8 @@
     "type": "Volcanic Field",
     "lat": 43.42,
     "lng": -113.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2005
   },
   {
@@ -833,7 +925,8 @@
     "type": "Stratovolcano",
     "lat": 43.7,
     "lng": 142.9,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2290
   },
   {
@@ -842,7 +935,8 @@
     "type": "Caldera",
     "lat": -5,
     "lng": 150.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 400
   },
   {
@@ -851,7 +945,8 @@
     "type": "Stratovolcano",
     "lat": 35.95,
     "lng": 52.11,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5670
   },
   {
@@ -860,7 +955,8 @@
     "type": "Stratovolcano",
     "lat": -4,
     "lng": 103.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3173
   },
   {
@@ -869,7 +965,8 @@
     "type": "Volcanic Field",
     "lat": 43.5,
     "lng": -120.9,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1525
   },
   {
@@ -878,7 +975,8 @@
     "type": "Plug",
     "lat": 44.6,
     "lng": -104.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1558
   },
   {
@@ -887,7 +985,8 @@
     "type": "Volcanic Field",
     "lat": 43.1,
     "lng": -118.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1450
   },
   {
@@ -896,7 +995,8 @@
     "type": "Complex Volcano",
     "lat": -7.2,
     "lng": 109.9,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2565
   },
   {
@@ -905,7 +1005,8 @@
     "type": "Dome",
     "lat": 51.46,
     "lng": 156.98,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1331
   },
   {
@@ -914,7 +1015,8 @@
     "type": "Stratovolcano",
     "lat": 13.6,
     "lng": 41.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1625
   },
   {
@@ -923,7 +1025,8 @@
     "type": "Complex Volcano",
     "lat": 1.7,
     "lng": 127.87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1185
   },
   {
@@ -932,7 +1035,8 @@
     "type": "Caldera",
     "lat": -16.7,
     "lng": 168.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -34
   },
   {
@@ -941,7 +1045,8 @@
     "type": "Somma Volcano",
     "lat": 50.68,
     "lng": 156.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1156
   },
   {
@@ -950,7 +1055,8 @@
     "type": "Stratovolcano",
     "lat": -39.3,
     "lng": 174.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2518
   },
   {
@@ -959,7 +1065,8 @@
     "type": "Stratovolcano",
     "lat": -8.7,
     "lng": 122.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 788
   },
   {
@@ -968,7 +1075,8 @@
     "type": "Caldera",
     "lat": 17.36,
     "lng": -93.23,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1060
   },
   {
@@ -977,7 +1085,8 @@
     "type": "Stratovolcano",
     "lat": 43.33,
     "lng": 42.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5633
   },
   {
@@ -986,7 +1095,8 @@
     "type": "Stratovolcano",
     "lat": -77.5,
     "lng": 167.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3794
   },
   {
@@ -995,7 +1105,8 @@
     "type": "Shield",
     "lat": 13.6,
     "lng": 40.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 613
   },
   {
@@ -1004,7 +1115,8 @@
     "type": "Stratovolcano",
     "lat": 37.73,
     "lng": 15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3350
   },
   {
@@ -1013,7 +1125,8 @@
     "type": "Stratovolcano",
     "lat": 8.98,
     "lng": 39.93,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2007
   },
   {
@@ -1022,7 +1135,8 @@
     "type": "Caldera",
     "lat": -0.37,
     "lng": -91.55,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1476
   },
   {
@@ -1031,7 +1145,8 @@
     "type": "Stratovolcano",
     "lat": 54.63,
     "lng": -164.42,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1095
   },
   {
@@ -1040,7 +1155,8 @@
     "type": "Stratovolcano",
     "lat": 14.95,
     "lng": -24.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2829
   },
   {
@@ -1049,7 +1165,8 @@
     "type": "Maar",
     "lat": 43.37,
     "lng": -121.07,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1716
   },
   {
@@ -1058,7 +1175,8 @@
     "type": "Stratovolcano",
     "lat": 55.08,
     "lng": -162.81,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1920
   },
   {
@@ -1067,7 +1185,8 @@
     "type": "Stratovolcano",
     "lat": 14.47,
     "lng": -90.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3763
   },
   {
@@ -1076,7 +1195,8 @@
     "type": "Fissure vents",
     "lat": 28.36,
     "lng": -14.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 529
   },
   {
@@ -1085,7 +1205,8 @@
     "type": "Stratovolcano",
     "lat": 35.36,
     "lng": 138.73,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3776
   },
   {
@@ -1094,7 +1215,8 @@
     "type": "Stratovolcano",
     "lat": 37.76,
     "lng": -25.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 805
   },
   {
@@ -1103,7 +1225,8 @@
     "type": "Stratovolcano",
     "lat": 50.27,
     "lng": 155.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1772
   },
   {
@@ -1112,7 +1235,8 @@
     "type": "Stratovolcano",
     "lat": 1.22,
     "lng": -77.37,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4276
   },
   {
@@ -1121,7 +1245,8 @@
     "type": "Stratovolcano",
     "lat": -7.26,
     "lng": 108.08,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2168
   },
   {
@@ -1130,7 +1255,8 @@
     "type": "Stratovolcano",
     "lat": 0.81,
     "lng": 127.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1715
   },
   {
@@ -1139,7 +1265,8 @@
     "type": "Stratovolcano",
     "lat": 54.97,
     "lng": 160.68,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2576
   },
   {
@@ -1148,7 +1275,8 @@
     "type": "Stratovolcano",
     "lat": 1.38,
     "lng": 127.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1635
   },
   {
@@ -1157,7 +1285,8 @@
     "type": "Stratovolcano",
     "lat": 51.8,
     "lng": 178.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1573
   },
   {
@@ -1166,7 +1295,8 @@
     "type": "Stratovolcano",
     "lat": -14.27,
     "lng": 167.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 797
   },
   {
@@ -1175,7 +1305,8 @@
     "type": "",
     "lat": -6.77,
     "lng": 106.94,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2958
   },
   {
@@ -1184,7 +1315,8 @@
     "type": "Stratovolcano",
     "lat": 48.11,
     "lng": -121.11,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3213
   },
   {
@@ -1193,7 +1325,8 @@
     "type": "Caldera",
     "lat": 52.56,
     "lng": 158.03,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1829
   },
   {
@@ -1202,7 +1335,8 @@
     "type": "Stratovolcano",
     "lat": 39.02,
     "lng": -27.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 402
   },
   {
@@ -1211,7 +1345,8 @@
     "type": "Fissure vents",
     "lat": 28,
     "lng": -15.58,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1950
   },
   {
@@ -1220,7 +1355,8 @@
     "type": "Stratovolcano",
     "lat": 52.07,
     "lng": -176.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1740
   },
   {
@@ -1229,7 +1365,8 @@
     "type": "Stratovolcano",
     "lat": 58.35,
     "lng": -155.09,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2317
   },
   {
@@ -1238,7 +1375,8 @@
     "type": "Caldera",
     "lat": 64.42,
     "lng": -17.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1725
   },
   {
@@ -1247,7 +1385,8 @@
     "type": "",
     "lat": -0.17,
     "lng": -78.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4784
   },
   {
@@ -1256,7 +1395,8 @@
     "type": "Stratovolcano",
     "lat": -18.42,
     "lng": -69.09,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 6071
   },
   {
@@ -1265,7 +1405,8 @@
     "type": "Stratovolcano",
     "lat": 17.31,
     "lng": 145.84,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 287
   },
   {
@@ -1274,7 +1415,8 @@
     "type": "",
     "lat": 35.23,
     "lng": 139.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1439
   },
   {
@@ -1283,7 +1425,8 @@
     "type": "Stratovolcano",
     "lat": -53.1,
     "lng": 73.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2745
   },
   {
@@ -1292,7 +1435,8 @@
     "type": "Stratovolcano",
     "lat": 9.2,
     "lng": 124.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1332
   },
   {
@@ -1301,7 +1445,8 @@
     "type": "Shield",
     "lat": 27.73,
     "lng": -18.03,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1500
   },
   {
@@ -1310,7 +1455,8 @@
     "type": "Stratovolcano",
     "lat": 45.4,
     "lng": -121.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3426
   },
   {
@@ -1319,7 +1465,8 @@
     "type": "Shield",
     "lat": 19.69,
     "lng": -155.87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2523
   },
   {
@@ -1328,7 +1475,8 @@
     "type": "Stratovolcano",
     "lat": 1.49,
     "lng": 127.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1325
   },
   {
@@ -1337,7 +1485,8 @@
     "type": "Stratovolcano",
     "lat": -8.06,
     "lng": 114.24,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2386
   },
   {
@@ -1346,7 +1495,8 @@
     "type": "Stratovolcano",
     "lat": 60.03,
     "lng": -153.09,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3053
   },
   {
@@ -1355,7 +1505,8 @@
     "type": "Stratovolcano",
     "lat": -8.34,
     "lng": 123.26,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1659
   },
   {
@@ -1364,7 +1515,8 @@
     "type": "Stratovolcano",
     "lat": -0.66,
     "lng": -78.71,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5248
   },
   {
@@ -1373,7 +1525,8 @@
     "type": "Caldera",
     "lat": 13.67,
     "lng": -89.05,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 450
   },
   {
@@ -1382,7 +1535,8 @@
     "type": "Stratovolcano",
     "lat": 51.49,
     "lng": 157.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1578
   },
   {
@@ -1391,7 +1545,8 @@
     "type": "Caldera",
     "lat": 24.75,
     "lng": 141.29,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 161
   },
   {
@@ -1400,7 +1555,8 @@
     "type": "Stratovolcano",
     "lat": 20.47,
     "lng": 122.01,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1009
   },
   {
@@ -1409,7 +1565,8 @@
     "type": "Stratovolcano",
     "lat": 9.98,
     "lng": -83.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3431
   },
   {
@@ -1418,7 +1575,8 @@
     "type": "Stratovolcano",
     "lat": 54.77,
     "lng": -163.72,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2446
   },
   {
@@ -1427,7 +1585,8 @@
     "type": "Stratovolcano",
     "lat": 13.81,
     "lng": -89.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1950
   },
   {
@@ -1436,7 +1595,8 @@
     "type": "Stratovolcano",
     "lat": 19.18,
     "lng": -98.64,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5286
   },
   {
@@ -1445,7 +1605,8 @@
     "type": "Pyroclastic Cone",
     "lat": 34.9,
     "lng": 139.1,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 581
   },
   {
@@ -1454,7 +1615,8 @@
     "type": "Stratovolcano",
     "lat": 1.08,
     "lng": 127.42,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1130
   },
   {
@@ -1463,7 +1625,8 @@
     "type": "Stratovolcano",
     "lat": 44.67,
     "lng": -121.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3199
   },
   {
@@ -1472,7 +1635,8 @@
     "type": "Volcanic Field",
     "lat": 43.1,
     "lng": -117.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1400
   },
   {
@@ -1481,7 +1645,8 @@
     "type": "Stratovolcano",
     "lat": -3.63,
     "lng": 144.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 365
   },
   {
@@ -1490,7 +1655,8 @@
     "type": "Stratovolcano",
     "lat": 58.62,
     "lng": -154.06,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 901
   },
   {
@@ -1499,7 +1665,8 @@
     "type": "Shield",
     "lat": 20.55,
     "lng": -156.57,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 450
   },
   {
@@ -1508,7 +1675,8 @@
     "type": "Stratovolcano",
     "lat": 51.3,
     "lng": 156.87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2156
   },
   {
@@ -1517,7 +1685,8 @@
     "type": "Stratovolcano",
     "lat": 51.92,
     "lng": -177.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1307
   },
   {
@@ -1526,7 +1695,8 @@
     "type": "Stratovolcano",
     "lat": 2.78,
     "lng": 125.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1784
   },
   {
@@ -1535,7 +1705,8 @@
     "type": "Stratovolcano",
     "lat": -1.51,
     "lng": 29.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4507
   },
   {
@@ -1544,7 +1715,8 @@
     "type": "Shield",
     "lat": -11.75,
     "lng": 43.38,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2361
   },
   {
@@ -1553,7 +1725,8 @@
     "type": "Stratovolcano",
     "lat": 54.05,
     "lng": 159.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1536
   },
   {
@@ -1562,7 +1735,8 @@
     "type": "Fissure vents",
     "lat": 63.63,
     "lng": -19.05,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1512
   },
   {
@@ -1571,7 +1745,8 @@
     "type": "Stratovolcano",
     "lat": 58.28,
     "lng": -154.96,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2047
   },
   {
@@ -1580,7 +1755,8 @@
     "type": "Volcanic Field",
     "lat": -0.08,
     "lng": 29.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1067
   },
   {
@@ -1589,7 +1765,8 @@
     "type": "Submarine",
     "lat": -9.02,
     "lng": 157.95,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -20
   },
   {
@@ -1598,7 +1775,8 @@
     "type": "Stratovolcano",
     "lat": 51.65,
     "lng": 157.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 900
   },
   {
@@ -1607,7 +1785,8 @@
     "type": "Stratovolcano",
     "lat": -7.93,
     "lng": 112.31,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1731
   },
   {
@@ -1616,7 +1795,8 @@
     "type": "Stratovolcano",
     "lat": 1.7,
     "lng": 101.26,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3800
   },
   {
@@ -1625,7 +1805,8 @@
     "type": "Stratovolcano",
     "lat": 52.06,
     "lng": 157.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2090
   },
   {
@@ -1634,7 +1815,8 @@
     "type": "Stratovolcano",
     "lat": 57.2,
     "lng": -156.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1677
   },
   {
@@ -1643,7 +1825,8 @@
     "type": "Submarine",
     "lat": 12.3,
     "lng": -61.64,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -185
   },
   {
@@ -1652,7 +1835,8 @@
     "type": "Caldera",
     "lat": 30.79,
     "lng": 130.31,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 704
   },
   {
@@ -1661,7 +1845,8 @@
     "type": "Stratovolcano",
     "lat": 54.49,
     "lng": 160.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1552
   },
   {
@@ -1670,7 +1855,8 @@
     "type": "Shield",
     "lat": 19.42,
     "lng": -155.29,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1222
   },
   {
@@ -1679,7 +1865,8 @@
     "type": "Stratovolcano",
     "lat": 3.07,
     "lng": 37.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5895
   },
   {
@@ -1688,7 +1875,8 @@
     "type": "Stratovolcano",
     "lat": 31.93,
     "lng": 130.86,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1700
   },
   {
@@ -1697,7 +1885,8 @@
     "type": "Stratovolcano",
     "lat": 56.06,
     "lng": 160.64,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4835
   },
   {
@@ -1706,7 +1895,8 @@
     "type": "Stratovolcano",
     "lat": 42.06,
     "lng": 140.68,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1131
   },
   {
@@ -1715,7 +1905,8 @@
     "type": "Caldera",
     "lat": 8.8,
     "lng": 39.69,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1619
   },
   {
@@ -1724,7 +1915,8 @@
     "type": "Stratovolcano",
     "lat": 53.32,
     "lng": 158.69,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3456
   },
   {
@@ -1733,7 +1925,8 @@
     "type": "Stratovolcano",
     "lat": 51.36,
     "lng": 156.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1812
   },
   {
@@ -1742,7 +1935,8 @@
     "type": "Caldera",
     "lat": 65.73,
     "lng": -16.78,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 818
   },
   {
@@ -1751,7 +1945,8 @@
     "type": "Stratovolcano",
     "lat": -6.1,
     "lng": 105.42,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 813
   },
   {
@@ -1760,7 +1955,8 @@
     "type": "Stratovolcano",
     "lat": 54.59,
     "lng": 160.27,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1856
   },
   {
@@ -1769,7 +1965,8 @@
     "type": "Stratovolcano",
     "lat": 54.75,
     "lng": 160.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3528
   },
   {
@@ -1778,7 +1975,8 @@
     "type": "Stratovolcano",
     "lat": 51.8,
     "lng": 157.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1079
   },
   {
@@ -1787,7 +1985,8 @@
     "type": "Stratovolcano",
     "lat": 58.45,
     "lng": -154.36,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2043
   },
   {
@@ -1796,7 +1995,8 @@
     "type": "Stratovolcano",
     "lat": 36.64,
     "lng": 138.54,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2171
   },
   {
@@ -1805,7 +2005,8 @@
     "type": "Caldera",
     "lat": 43.61,
     "lng": 144.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 999
   },
   {
@@ -1814,7 +2015,8 @@
     "type": "Stratovolcano",
     "lat": 42.49,
     "lng": 141.16,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 581
   },
   {
@@ -1823,7 +2025,8 @@
     "type": "Caldera",
     "lat": -16.83,
     "lng": 168.54,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -2
   },
   {
@@ -1832,7 +2035,8 @@
     "type": "Stratovolcano",
     "lat": 28.57,
     "lng": -17.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2426
   },
   {
@@ -1841,7 +2045,8 @@
     "type": "Stratovolcano",
     "lat": -8.95,
     "lng": 148.15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1680
   },
   {
@@ -1850,7 +2055,8 @@
     "type": "Stratovolcano",
     "lat": -5.53,
     "lng": 148.42,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1330
   },
   {
@@ -1859,7 +2065,8 @@
     "type": "Fissure vents",
     "lat": 29.03,
     "lng": -13.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 670
   },
   {
@@ -1868,7 +2075,8 @@
     "type": "Stratovolcano",
     "lat": -23.37,
     "lng": -67.73,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5592
   },
   {
@@ -1877,7 +2085,8 @@
     "type": "Complex Volcano",
     "lat": -8.36,
     "lng": 122.84,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1117
   },
   {
@@ -1886,7 +2095,8 @@
     "type": "Stratovolcano",
     "lat": -8.54,
     "lng": 122.78,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1703
   },
   {
@@ -1895,7 +2105,8 @@
     "type": "Stratovolcano",
     "lat": -8.27,
     "lng": 123.51,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1423
   },
   {
@@ -1904,7 +2115,8 @@
     "type": "Stratovolcano",
     "lat": 17.37,
     "lng": -62.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1156
   },
   {
@@ -1913,7 +2125,8 @@
     "type": "Stratovolcano",
     "lat": 38.48,
     "lng": 14.95,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 602
   },
   {
@@ -1922,7 +2135,8 @@
     "type": "Stratovolcano",
     "lat": 51.95,
     "lng": 178.54,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1174
   },
   {
@@ -1931,7 +2145,8 @@
     "type": "Submarine",
     "lat": 18.92,
     "lng": -155.27,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -975
   },
   {
@@ -1940,7 +2155,8 @@
     "type": "Stratovolcano",
     "lat": 1.36,
     "lng": 124.79,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1580
   },
   {
@@ -1949,7 +2165,8 @@
     "type": "Stratovolcano",
     "lat": -5.47,
     "lng": 150.51,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 805
   },
   {
@@ -1958,7 +2175,8 @@
     "type": "Caldera",
     "lat": -4.92,
     "lng": 151.16,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 858
   },
   {
@@ -1967,7 +2185,8 @@
     "type": "Stratovolcano",
     "lat": -6.52,
     "lng": 155.62,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1887
   },
   {
@@ -1976,7 +2195,8 @@
     "type": "Complex Volcano",
     "lat": -5.36,
     "lng": 147.12,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1280
   },
   {
@@ -1985,7 +2205,8 @@
     "type": "Stratovolcano",
     "lat": -0.91,
     "lng": 36.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2776
   },
   {
@@ -1994,7 +2215,8 @@
     "type": "Stratovolcano",
     "lat": -16.51,
     "lng": 168.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1413
   },
   {
@@ -2003,7 +2225,8 @@
     "type": "Stratovolcano",
     "lat": 11.45,
     "lng": -85.52,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1394
   },
   {
@@ -2012,7 +2235,8 @@
     "type": "Stratovolcano",
     "lat": 58.2,
     "lng": -155.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2165
   },
   {
@@ -2021,7 +2245,8 @@
     "type": "Stratovolcano",
     "lat": 1.36,
     "lng": 124.86,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1324
   },
   {
@@ -2030,7 +2255,8 @@
     "type": "Stratovolcano",
     "lat": 0.32,
     "lng": 127.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1357
   },
   {
@@ -2039,7 +2265,8 @@
     "type": "Caldera",
     "lat": 54.13,
     "lng": 159.67,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1560
   },
   {
@@ -2048,7 +2275,8 @@
     "type": "Stratovolcano",
     "lat": -4.08,
     "lng": 145.04,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1807
   },
   {
@@ -2057,7 +2285,8 @@
     "type": "Stratovolcano",
     "lat": 14.52,
     "lng": 120.47,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1388
   },
   {
@@ -2066,7 +2295,8 @@
     "type": "Shield",
     "lat": 2.32,
     "lng": 37.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1707
   },
   {
@@ -2075,7 +2305,8 @@
     "type": "Caldera",
     "lat": 11.98,
     "lng": -86.16,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 635
   },
   {
@@ -2084,7 +2315,8 @@
     "type": "Stratovolcano",
     "lat": 51.1,
     "lng": 156.72,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 503
   },
   {
@@ -2093,7 +2325,8 @@
     "type": "Caldera",
     "lat": 43.57,
     "lng": 144.57,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 855
   },
   {
@@ -2102,7 +2335,8 @@
     "type": "Shield",
     "lat": 19.82,
     "lng": -155.47,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4205
   },
   {
@@ -2111,7 +2345,8 @@
     "type": "Shield",
     "lat": 19.48,
     "lng": -155.61,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4170
   },
   {
@@ -2120,7 +2355,8 @@
     "type": "Stratovolcano",
     "lat": 13.26,
     "lng": 123.69,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2462
   },
   {
@@ -2129,7 +2365,8 @@
     "type": "Complex Volcano",
     "lat": -53.03,
     "lng": 72.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 230
   },
   {
@@ -2138,7 +2375,8 @@
     "type": "Stratovolcano",
     "lat": 42.45,
     "lng": -122.32,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2894
   },
   {
@@ -2147,7 +2385,8 @@
     "type": "Tuff Ring",
     "lat": 43.7,
     "lng": -111.96,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1713
   },
   {
@@ -2156,7 +2395,8 @@
     "type": "Shield",
     "lat": -0.2,
     "lng": 36.07,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2278
   },
   {
@@ -2165,7 +2405,8 @@
     "type": "Stratovolcano",
     "lat": -7.54,
     "lng": 110.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2911
   },
   {
@@ -2174,7 +2415,8 @@
     "type": "Stratovolcano",
     "lat": -7.45,
     "lng": 110.43,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3145
   },
   {
@@ -2183,7 +2425,8 @@
     "type": "Stratovolcano",
     "lat": -3.25,
     "lng": 36.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4565
   },
   {
@@ -2192,7 +2435,8 @@
     "type": "Dome",
     "lat": 37.62,
     "lng": 23.34,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 760
   },
   {
@@ -2201,7 +2445,8 @@
     "type": "Submarine",
     "lat": -19.18,
     "lng": -174.87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 43
   },
   {
@@ -2210,7 +2455,8 @@
     "type": "Stratovolcano",
     "lat": -57.78,
     "lng": -26.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 990
   },
   {
@@ -2219,7 +2465,8 @@
     "type": "Cinder Cone",
     "lat": 19.85,
     "lng": -101.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3860
   },
   {
@@ -2228,7 +2475,8 @@
     "type": "Stratovolcano",
     "lat": 36.7,
     "lng": 24.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 751
   },
   {
@@ -2237,7 +2485,8 @@
     "type": "Stratovolcano",
     "lat": 34.08,
     "lng": 139.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 815
   },
   {
@@ -2246,7 +2495,8 @@
     "type": "Stratovolcano",
     "lat": 51.94,
     "lng": -176.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1196
   },
   {
@@ -2255,7 +2505,8 @@
     "type": "Stratovolcano",
     "lat": 0.13,
     "lng": -78.27,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4263
   },
   {
@@ -2264,7 +2515,8 @@
     "type": "Stratovolcano",
     "lat": 12.42,
     "lng": -86.54,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1297
   },
   {
@@ -2273,7 +2525,8 @@
     "type": "Submarine",
     "lat": 37.6,
     "lng": -25.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -197
   },
   {
@@ -2282,7 +2535,8 @@
     "type": "Volcanic Field",
     "lat": 38,
     "lng": -119.03,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2121
   },
   {
@@ -2291,7 +2545,8 @@
     "type": "Submarine",
     "lat": -25.89,
     "lng": -177.19,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": -132
   },
   {
@@ -2300,7 +2555,8 @@
     "type": "Stratovolcano",
     "lat": 0.45,
     "lng": 127.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 950
   },
   {
@@ -2309,7 +2565,8 @@
     "type": "Stratovolcano",
     "lat": -6.62,
     "lng": 110.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1625
   },
   {
@@ -2318,7 +2575,8 @@
     "type": "Stratovolcano",
     "lat": 36.76,
     "lng": 139.48,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2486
   },
   {
@@ -2327,7 +2585,8 @@
     "type": "Stratovolcano",
     "lat": 37.12,
     "lng": 139.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1915
   },
   {
@@ -2336,7 +2595,8 @@
     "type": "Volcanic Field",
     "lat": 36.78,
     "lng": -109.18,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2740
   },
   {
@@ -2345,7 +2605,8 @@
     "type": "Cinder Cone",
     "lat": 12.51,
     "lng": -86.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 728
   },
   {
@@ -2354,7 +2615,8 @@
     "type": "Caldera",
     "lat": 49.57,
     "lng": 154.81,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1018
   },
   {
@@ -2363,7 +2625,8 @@
     "type": "Stratovolcano",
     "lat": 17.15,
     "lng": -62.58,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 985
   },
   {
@@ -2372,7 +2635,8 @@
     "type": "Shield",
     "lat": 43.72,
     "lng": -121.23,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2434
   },
   {
@@ -2381,7 +2645,8 @@
     "type": "Shield",
     "lat": -37.77,
     "lng": 142.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1011
   },
   {
@@ -2390,7 +2655,8 @@
     "type": "Stratovolcano",
     "lat": -39.13,
     "lng": 175.64,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1978
   },
   {
@@ -2399,7 +2665,8 @@
     "type": "Shield",
     "lat": 36.8,
     "lng": 139.38,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2578
   },
   {
@@ -2408,7 +2675,8 @@
     "type": "Stratovolcano",
     "lat": 43.45,
     "lng": 143.04,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2013
   },
   {
@@ -2417,7 +2685,8 @@
     "type": "Stratovolcano",
     "lat": 36.59,
     "lng": 27.16,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 698
   },
   {
@@ -2426,7 +2695,8 @@
     "type": "Shield",
     "lat": 0.23,
     "lng": 37.87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 750
   },
   {
@@ -2435,7 +2705,8 @@
     "type": "Shield",
     "lat": -1.41,
     "lng": 29.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3058
   },
   {
@@ -2444,7 +2715,8 @@
     "type": "Stratovolcano",
     "lat": -1.52,
     "lng": 29.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3470
   },
   {
@@ -2453,7 +2725,8 @@
     "type": "Shield",
     "lat": 21.44,
     "lng": -158,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1220
   },
   {
@@ -2462,7 +2735,8 @@
     "type": "Stratovolcano",
     "lat": -27.12,
     "lng": -68.55,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 6887
   },
   {
@@ -2471,7 +2745,8 @@
     "type": "Dome",
     "lat": -38.12,
     "lng": 176.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1111
   },
   {
@@ -2480,7 +2755,8 @@
     "type": "Shield",
     "lat": 53.43,
     "lng": -168.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1073
   },
   {
@@ -2489,7 +2765,8 @@
     "type": "Stratovolcano",
     "lat": 6.25,
     "lng": 10.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3011
   },
   {
@@ -2498,7 +2775,8 @@
     "type": "Stratovolcano",
     "lat": -2.76,
     "lng": 39.91,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2962
   },
   {
@@ -2507,7 +2785,8 @@
     "type": "Caldera",
     "lat": 52.54,
     "lng": 157.34,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1776
   },
   {
@@ -2516,7 +2795,8 @@
     "type": "Stratovolcano",
     "lat": 64,
     "lng": -16.65,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2119
   },
   {
@@ -2525,7 +2805,8 @@
     "type": "Stratovolcano",
     "lat": 34.72,
     "lng": 139.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 764
   },
   {
@@ -2534,7 +2815,8 @@
     "type": "Complex Volcano",
     "lat": 14.38,
     "lng": -90.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2552
   },
   {
@@ -2543,7 +2825,8 @@
     "type": "Stratovolcano",
     "lat": 18.13,
     "lng": 145.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 570
   },
   {
@@ -2552,7 +2835,8 @@
     "type": "Caldera",
     "lat": -5.58,
     "lng": 150.52,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 742
   },
   {
@@ -2561,7 +2845,8 @@
     "type": "Stratovolcano",
     "lat": -7.32,
     "lng": 107.73,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2665
   },
   {
@@ -2570,7 +2855,8 @@
     "type": "Cinder Cone",
     "lat": 19.5,
     "lng": -102.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3170
   },
   {
@@ -2579,7 +2865,8 @@
     "type": "Stratovolcano",
     "lat": -18.17,
     "lng": -69.15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 6348
   },
   {
@@ -2588,7 +2875,8 @@
     "type": "Dome",
     "lat": 51.45,
     "lng": 156.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1070
   },
   {
@@ -2597,7 +2885,8 @@
     "type": "Stratovolcano",
     "lat": 55.42,
     "lng": -161.89,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2519
   },
   {
@@ -2606,7 +2895,8 @@
     "type": "Stratovolcano",
     "lat": 55.45,
     "lng": -161.84,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2142
   },
   {
@@ -2615,7 +2905,8 @@
     "type": "Stratovolcano",
     "lat": 14.82,
     "lng": -61.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1397
   },
   {
@@ -2624,7 +2915,8 @@
     "type": "Complex Volcano",
     "lat": 4.91,
     "lng": 96.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2801
   },
   {
@@ -2633,7 +2925,8 @@
     "type": "Stratovolcano",
     "lat": 38.47,
     "lng": -28.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2351
   },
   {
@@ -2642,7 +2935,8 @@
     "type": "Stratovolcano",
     "lat": 11.54,
     "lng": -85.62,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1700
   },
   {
@@ -2651,7 +2945,8 @@
     "type": "Cinder Cone",
     "lat": 31.77,
     "lng": -113.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1200
   },
   {
@@ -2660,7 +2955,8 @@
     "type": "Stratovolcano",
     "lat": 15.13,
     "lng": 120.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1486
   },
   {
@@ -2669,7 +2965,8 @@
     "type": "Volcanic Field",
     "lat": 34.75,
     "lng": -116.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1495
   },
   {
@@ -2678,7 +2975,8 @@
     "type": "Shield",
     "lat": -21.23,
     "lng": 55.71,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2631
   },
   {
@@ -2687,7 +2985,8 @@
     "type": "Stratovolcano",
     "lat": 10.2,
     "lng": -84.23,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2708
   },
   {
@@ -2696,7 +2995,8 @@
     "type": "Stratovolcano",
     "lat": 19.02,
     "lng": -98.62,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5246
   },
   {
@@ -2705,7 +3005,8 @@
     "type": "Stratovolcano",
     "lat": 47.02,
     "lng": 152.12,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1360
   },
   {
@@ -2714,7 +3015,8 @@
     "type": "Stratovolcano",
     "lat": 2.32,
     "lng": -76.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4650
   },
   {
@@ -2723,7 +3025,8 @@
     "type": "Stratovolcano",
     "lat": 17.48,
     "lng": -62.96,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 601
   },
   {
@@ -2732,7 +3035,8 @@
     "type": "Shield",
     "lat": -4.27,
     "lng": 152.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 688
   },
   {
@@ -2741,7 +3045,8 @@
     "type": "Stratovolcano",
     "lat": 7.7,
     "lng": 124.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2815
   },
   {
@@ -2750,7 +3055,8 @@
     "type": "Stratovolcano",
     "lat": 48.29,
     "lng": 153.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 551
   },
   {
@@ -2759,7 +3065,8 @@
     "type": "Stratovolcano",
     "lat": 46.85,
     "lng": -121.76,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4392
   },
   {
@@ -2768,7 +3075,8 @@
     "type": "Stratovolcano",
     "lat": -5.78,
     "lng": 105.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1281
   },
   {
@@ -2777,7 +3085,8 @@
     "type": "Stratovolcano",
     "lat": -29.27,
     "lng": -177.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 516
   },
   {
@@ -2786,7 +3095,8 @@
     "type": "Stratovolcano",
     "lat": 47.77,
     "lng": 153.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 956
   },
   {
@@ -2795,7 +3105,8 @@
     "type": "Stratovolcano",
     "lat": -8.13,
     "lng": 114.04,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3332
   },
   {
@@ -2804,7 +3115,8 @@
     "type": "Stratovolcano",
     "lat": 44.07,
     "lng": 145.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1660
   },
   {
@@ -2813,7 +3125,8 @@
     "type": "Stratovolcano",
     "lat": 60.49,
     "lng": -152.74,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3108
   },
   {
@@ -2822,7 +3135,8 @@
     "type": "Stratovolcano",
     "lat": -0.08,
     "lng": -77.66,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3562
   },
   {
@@ -2831,7 +3145,8 @@
     "type": "Complex Volcano",
     "lat": 10.83,
     "lng": -85.32,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1916
   },
   {
@@ -2840,7 +3155,8 @@
     "type": "Stratovolcano",
     "lat": 54.8,
     "lng": -163.59,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1871
   },
   {
@@ -2849,7 +3165,8 @@
     "type": "Stratovolcano",
     "lat": -39.28,
     "lng": 175.57,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2797
   },
   {
@@ -2858,7 +3175,8 @@
     "type": "Stratovolcano",
     "lat": 45.88,
     "lng": 149.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 542
   },
   {
@@ -2867,7 +3185,8 @@
     "type": "Stratovolcano",
     "lat": 4.89,
     "lng": -75.32,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5321
   },
   {
@@ -2876,7 +3195,8 @@
     "type": "Submarine",
     "lat": -36.13,
     "lng": 178.05,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 500
   },
   {
@@ -2885,7 +3205,8 @@
     "type": "Stratovolcano",
     "lat": 17.63,
     "lng": -63.23,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 887
   },
   {
@@ -2894,7 +3215,8 @@
     "type": "Stratovolcano",
     "lat": -15.78,
     "lng": -71.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5967
   },
   {
@@ -2903,7 +3225,8 @@
     "type": "Stratovolcano",
     "lat": -5.41,
     "lng": 148.09,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 992
   },
   {
@@ -2912,7 +3235,8 @@
     "type": "Stratovolcano",
     "lat": 31.59,
     "lng": 130.66,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1117
   },
   {
@@ -2921,7 +3245,8 @@
     "type": "Stratovolcano",
     "lat": -6.72,
     "lng": 106.73,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2211
   },
   {
@@ -2930,7 +3255,8 @@
     "type": "Stratovolcano",
     "lat": 12.7,
     "lng": -87,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1745
   },
   {
@@ -2939,7 +3265,8 @@
     "type": "Stratovolcano",
     "lat": 13.73,
     "lng": -89.29,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1893
   },
   {
@@ -2948,7 +3275,8 @@
     "type": "Stratovolcano",
     "lat": 16.9,
     "lng": -25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 697
   },
   {
@@ -2957,7 +3285,8 @@
     "type": "Shield",
     "lat": 62.22,
     "lng": -144.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4949
   },
   {
@@ -2966,7 +3295,8 @@
     "type": "Stratovolcano",
     "lat": -2,
     "lng": -78.34,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5230
   },
   {
@@ -2975,7 +3305,8 @@
     "type": "Stratovolcano",
     "lat": 13.85,
     "lng": -89.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2381
   },
   {
@@ -2984,7 +3315,8 @@
     "type": "Stratovolcano",
     "lat": 14.76,
     "lng": -91.55,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3772
   },
   {
@@ -2993,7 +3325,8 @@
     "type": "Shield",
     "lat": 36.4,
     "lng": 25.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 367
   },
   {
@@ -3002,7 +3335,8 @@
     "type": "Stratovolcano",
     "lat": 48.09,
     "lng": 153.2,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1496
   },
   {
@@ -3011,7 +3345,8 @@
     "type": "Stratovolcano",
     "lat": -9.13,
     "lng": 159.82,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 485
   },
   {
@@ -3020,7 +3355,8 @@
     "type": "Stratovolcano",
     "lat": 52.02,
     "lng": 178.14,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1160
   },
   {
@@ -3029,7 +3365,8 @@
     "type": "Stratovolcano",
     "lat": -8.11,
     "lng": 112.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3676
   },
   {
@@ -3038,7 +3375,8 @@
     "type": "Stratovolcano",
     "lat": 51.93,
     "lng": 179.58,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1221
   },
   {
@@ -3047,7 +3385,8 @@
     "type": "Stratovolcano",
     "lat": 37.87,
     "lng": -25.78,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 856
   },
   {
@@ -3056,7 +3395,8 @@
     "type": "Stratovolcano",
     "lat": 41.41,
     "lng": -122.19,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4317
   },
   {
@@ -3065,7 +3405,8 @@
     "type": "Stratovolcano",
     "lat": 56.65,
     "lng": 161.36,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3283
   },
   {
@@ -3074,7 +3415,8 @@
     "type": "Caldera",
     "lat": 42.69,
     "lng": 141.38,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1320
   },
   {
@@ -3083,7 +3425,8 @@
     "type": "Stratovolcano",
     "lat": 44.13,
     "lng": 145.17,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1563
   },
   {
@@ -3092,7 +3435,8 @@
     "type": "Stratovolcano",
     "lat": 54.76,
     "lng": -163.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2857
   },
   {
@@ -3101,7 +3445,8 @@
     "type": "Stratovolcano",
     "lat": 48.88,
     "lng": 154.18,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 934
   },
   {
@@ -3110,7 +3455,8 @@
     "type": "Stratovolcano",
     "lat": 44.42,
     "lng": 146.14,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1189
   },
   {
@@ -3119,7 +3465,8 @@
     "type": "Caldera",
     "lat": -38.97,
     "lng": -71.52,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2282
   },
   {
@@ -3128,7 +3475,8 @@
     "type": "Stratovolcano",
     "lat": 1.11,
     "lng": 124.73,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1784
   },
   {
@@ -3137,7 +3485,8 @@
     "type": "Stratovolcano",
     "lat": 16.05,
     "lng": -61.67,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1467
   },
   {
@@ -3146,7 +3495,8 @@
     "type": "Stratovolcano",
     "lat": 16.72,
     "lng": -62.18,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 915
   },
   {
@@ -3155,7 +3505,8 @@
     "type": "Stratovolcano",
     "lat": 13.33,
     "lng": -61.18,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1220
   },
   {
@@ -3164,7 +3515,8 @@
     "type": "",
     "lat": 2.63,
     "lng": 36.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 800
   },
   {
@@ -3173,7 +3525,8 @@
     "type": "Cinder Cone",
     "lat": 35.6,
     "lng": -111.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2141
   },
   {
@@ -3182,7 +3535,8 @@
     "type": "Stratovolcano",
     "lat": 61.3,
     "lng": -152.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3374
   },
   {
@@ -3191,7 +3545,8 @@
     "type": "Submarine",
     "lat": 47.6,
     "lng": 152.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 36
   },
   {
@@ -3200,7 +3555,8 @@
     "type": "Stratovolcano",
     "lat": 58.4,
     "lng": -154.4,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2272
   },
   {
@@ -3209,7 +3565,8 @@
     "type": "Stratovolcano",
     "lat": 38.79,
     "lng": 15.21,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 924
   },
   {
@@ -3218,7 +3575,8 @@
     "type": "Stratovolcano",
     "lat": -0.54,
     "lng": -77.63,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3990
   },
   {
@@ -3227,7 +3585,8 @@
     "type": "Stratovolcano",
     "lat": -7.38,
     "lng": 110.07,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3371
   },
   {
@@ -3236,7 +3595,8 @@
     "type": "Stratovolcano",
     "lat": -7.3,
     "lng": 109.99,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3136
   },
   {
@@ -3245,7 +3605,8 @@
     "type": "Cinder Cone",
     "lat": 35.37,
     "lng": -111.5,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2447
   },
   {
@@ -3254,7 +3615,8 @@
     "type": "Shield",
     "lat": -1.18,
     "lng": 36.35,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2356
   },
   {
@@ -3263,7 +3625,8 @@
     "type": "Stratovolcano",
     "lat": 29.64,
     "lng": 129.72,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 799
   },
   {
@@ -3272,7 +3635,8 @@
     "type": "Caldera",
     "lat": 14,
     "lng": 120.99,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 311
   },
   {
@@ -3281,7 +3645,8 @@
     "type": "Stratovolcano",
     "lat": -0.98,
     "lng": 100.68,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2597
   },
   {
@@ -3290,7 +3655,8 @@
     "type": "Stratovolcano",
     "lat": -8.25,
     "lng": 118,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2850
   },
   {
@@ -3299,7 +3665,8 @@
     "type": "Stratovolcano",
     "lat": 51.89,
     "lng": -178.15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1806
   },
   {
@@ -3308,7 +3675,8 @@
     "type": "Stratovolcano",
     "lat": -6.77,
     "lng": 107.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2084
   },
   {
@@ -3317,7 +3685,8 @@
     "type": "Stratovolcano",
     "lat": 49.35,
     "lng": 154.7,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1325
   },
   {
@@ -3326,7 +3695,8 @@
     "type": "Stratovolcano",
     "lat": 20.92,
     "lng": 17.28,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3100
   },
   {
@@ -3335,7 +3705,8 @@
     "type": "Stratovolcano",
     "lat": 12.6,
     "lng": -86.85,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1010
   },
   {
@@ -3344,7 +3715,8 @@
     "type": "Stratovolcano",
     "lat": 28.27,
     "lng": -16.64,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3715
   },
   {
@@ -3353,7 +3725,8 @@
     "type": "Stratovolcano",
     "lat": -7.94,
     "lng": 112.95,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2329
   },
   {
@@ -3362,7 +3735,8 @@
     "type": "Stratovolcano",
     "lat": 44.5,
     "lng": -121.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2390
   },
   {
@@ -3371,7 +3745,8 @@
     "type": "Stratovolcano",
     "lat": 44.1,
     "lng": -121.77,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3100
   },
   {
@@ -3380,7 +3755,8 @@
     "type": "Stratovolcano",
     "lat": -59.45,
     "lng": -27.37,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1075
   },
   {
@@ -3389,7 +3765,8 @@
     "type": "Stratovolcano",
     "lat": 44.35,
     "lng": 146.26,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1819
   },
   {
@@ -3398,7 +3775,8 @@
     "type": "Caldera",
     "lat": 2.58,
     "lng": 98.83,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2157
   },
   {
@@ -3407,7 +3785,8 @@
     "type": "Caldera",
     "lat": 1.25,
     "lng": 127.47,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 979
   },
   {
@@ -3416,7 +3795,8 @@
     "type": "",
     "lat": 43.42,
     "lng": 142.69,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2077
   },
   {
@@ -3425,7 +3805,8 @@
     "type": "Stratovolcano",
     "lat": 55.83,
     "lng": 160.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3682
   },
   {
@@ -3434,7 +3815,8 @@
     "type": "Stratovolcano",
     "lat": 14.61,
     "lng": -91.19,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3158
   },
   {
@@ -3443,7 +3825,8 @@
     "type": "Caldera",
     "lat": 40.47,
     "lng": 140.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1159
   },
   {
@@ -3452,7 +3835,8 @@
     "type": "Stratovolcano",
     "lat": -18.75,
     "lng": 169.23,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1881
   },
   {
@@ -3461,7 +3845,8 @@
     "type": "Stratovolcano",
     "lat": 45.93,
     "lng": 149.92,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 998
   },
   {
@@ -3470,7 +3855,8 @@
     "type": "Shield",
     "lat": -37.09,
     "lng": -12.28,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2060
   },
   {
@@ -3479,7 +3865,8 @@
     "type": "Dome",
     "lat": 33.28,
     "lng": 131.43,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1584
   },
   {
@@ -3488,7 +3875,8 @@
     "type": "Stratovolcano",
     "lat": -1.47,
     "lng": -78.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2011
   },
   {
@@ -3497,7 +3885,8 @@
     "type": "Maar",
     "lat": 37.02,
     "lng": -117.45,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 752
   },
   {
@@ -3506,7 +3895,8 @@
     "type": "Stratovolcano",
     "lat": -16.36,
     "lng": -70.9,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 5672
   },
   {
@@ -3515,7 +3905,8 @@
     "type": "Stratovolcano",
     "lat": 55.76,
     "lng": 160.53,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2923
   },
   {
@@ -3524,7 +3915,8 @@
     "type": "Stratovolcano",
     "lat": 57.75,
     "lng": -156.37,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1474
   },
   {
@@ -3533,7 +3925,8 @@
     "type": "Volcanic Field",
     "lat": 36.38,
     "lng": -113.13,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1555
   },
   {
@@ -3542,7 +3935,8 @@
     "type": "Stratovolcano",
     "lat": -5.05,
     "lng": 151.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2334
   },
   {
@@ -3551,7 +3945,8 @@
     "type": "Complex Volcano",
     "lat": -5.59,
     "lng": 147.88,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1548
   },
   {
@@ -3560,7 +3955,8 @@
     "type": "Shield",
     "lat": -18.25,
     "lng": 144.75,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1020
   },
   {
@@ -3569,7 +3965,8 @@
     "type": "",
     "lat": -7.18,
     "lng": 110.33,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2050
   },
   {
@@ -3578,7 +3975,8 @@
     "type": "Complex Volcano",
     "lat": 32.76,
     "lng": 130.29,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1500
   },
   {
@@ -3587,7 +3985,8 @@
     "type": "Somma Volcano",
     "lat": 47.12,
     "lng": 152.25,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 678
   },
   {
@@ -3596,7 +3995,8 @@
     "type": "Caldera",
     "lat": 47.52,
     "lng": 152.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 401
   },
   {
@@ -3605,7 +4005,8 @@
     "type": "Stratovolcano",
     "lat": 42.54,
     "lng": 140.84,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 737
   },
   {
@@ -3614,7 +4015,8 @@
     "type": "Caldera",
     "lat": 54.5,
     "lng": 159.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1617
   },
   {
@@ -3623,7 +4025,8 @@
     "type": "Stratovolcano",
     "lat": 56.17,
     "lng": -159.38,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2507
   },
   {
@@ -3632,7 +4035,8 @@
     "type": "Cinder Cone",
     "lat": 50.55,
     "lng": 155.97,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1183
   },
   {
@@ -3641,7 +4045,8 @@
     "type": "Somma Volcano",
     "lat": 40.82,
     "lng": 14.43,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1281
   },
   {
@@ -3650,7 +4055,8 @@
     "type": "Stratovolcano",
     "lat": -39.42,
     "lng": -71.93,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2847
   },
   {
@@ -3659,7 +4065,8 @@
     "type": "Stratovolcano",
     "lat": 52.7,
     "lng": 158.28,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2173
   },
   {
@@ -3668,7 +4075,8 @@
     "type": "Stratovolcano",
     "lat": -1.47,
     "lng": 29.49,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3711
   },
   {
@@ -3677,7 +4085,8 @@
     "type": "Stratovolcano",
     "lat": 53.13,
     "lng": -168.69,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2149
   },
   {
@@ -3686,7 +4095,8 @@
     "type": "",
     "lat": 38.4,
     "lng": 14.96,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 500
   },
   {
@@ -3695,7 +4105,8 @@
     "type": "Shield",
     "lat": 44.3,
     "lng": -121.8,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2376
   },
   {
@@ -3704,7 +4115,8 @@
     "type": "Caldera",
     "lat": 25.05,
     "lng": 17.55,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 547
   },
   {
@@ -3713,7 +4125,8 @@
     "type": "Stratovolcano",
     "lat": 54.52,
     "lng": -164.65,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1654
   },
   {
@@ -3722,7 +4135,8 @@
     "type": "Stratovolcano",
     "lat": -37.52,
     "lng": 177.18,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 321
   },
   {
@@ -3731,7 +4145,8 @@
     "type": "Shield",
     "lat": 62,
     "lng": -144.02,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 4317
   },
   {
@@ -3740,7 +4155,8 @@
     "type": "Volcanic Field",
     "lat": 48.72,
     "lng": 126.12,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 597
   },
   {
@@ -3749,7 +4165,8 @@
     "type": "Stratovolcano",
     "lat": 36.22,
     "lng": 137.59,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2455
   },
   {
@@ -3758,7 +4175,8 @@
     "type": "Dome",
     "lat": 36.67,
     "lng": 27.14,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 180
   },
   {
@@ -3767,7 +4185,8 @@
     "type": "Stratovolcano",
     "lat": 57.02,
     "lng": -157.19,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1345
   },
   {
@@ -3776,7 +4195,8 @@
     "type": "Stratovolcano",
     "lat": -19.53,
     "lng": 169.44,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 361
   },
   {
@@ -3785,7 +4205,8 @@
     "type": "Caldera",
     "lat": 44.43,
     "lng": -110.67,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2805
   },
   {
@@ -3794,7 +4215,8 @@
     "type": "Caldera",
     "lat": 46.93,
     "lng": 151.95,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 624
   },
   {
@@ -3803,7 +4225,8 @@
     "type": "",
     "lat": 51.57,
     "lng": 157.32,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 1953
   },
   {
@@ -3812,7 +4235,8 @@
     "type": "",
     "lat": 53.59,
     "lng": 159.15,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 2958
   },
   {
@@ -3821,7 +4245,8 @@
     "type": "Stratovolcano",
     "lat": 55.86,
     "lng": 160.6,
-    "size": 100, "color": "red",
+    "size": 100,
+    "color": "red",
     "elevation": 3081
   }
 ]

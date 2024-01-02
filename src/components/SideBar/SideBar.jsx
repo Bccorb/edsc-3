@@ -10,12 +10,12 @@ function SideBar(props) {
       <h1>Search Earth Data</h1>
       <form>
         <input type="text" />
-
         <button type="button">Search</button>
       </form>
 
       <div className="collection-list">
-        {collections.map((collectionData, i) => <CollectionCard collection={collectionData} key={i} />)}
+        {collections.map((collectionData, i) => 
+        <CollectionCard collection={collectionData} setCollectionFn={props.setCollection} key={i} />)}
       </div>
     </div>
   );

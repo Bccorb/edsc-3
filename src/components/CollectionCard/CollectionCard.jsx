@@ -14,7 +14,8 @@ function CollectionCard(props) {
           {collection.description}
         </Card.Text>
         <br />
-        <Button variant="primary">View</Button>
+        <Button variant="primary" onClick={() => {
+          props.setCollectionFn(props.collection.collection)}}>View</Button>
       </Card.Body>
     </Card>
   );
