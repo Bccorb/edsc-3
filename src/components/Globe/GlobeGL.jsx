@@ -13,7 +13,7 @@ function GlobeGL(props) {
 
   const centerOnLocation = (lat, lng) => {
     console.log("moving the globe", lat, lng)
-    globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 0.6 }, 4000)
+    globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 0.8 }, 4000)
   }
 
   // Leaving commented out for now, because the rotations causes alot of rerenders.

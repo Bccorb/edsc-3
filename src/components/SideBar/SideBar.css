@@ -6,6 +6,7 @@
   position: absolute;
   color: #3e3e3e;
   padding: 1%;
+  overflow-y: scroll;
 }
 
 .sidebar h1 {
