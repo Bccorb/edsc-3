@@ -1,4 +1,7 @@
 {
+    "meta": {
+        "groupType": "country"
+    },
     "type": "FeatureCollection",
     "globeType": "polygon",
     "center": {

@@ -1,4 +1,7 @@
 {
+  "meta":{
+    "groupType":"migrate"
+  },
   "type": "FeatureCollection",
   "globeType": "paths",
   "center": {
