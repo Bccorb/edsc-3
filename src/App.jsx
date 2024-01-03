@@ -1,11 +1,11 @@
 import GlobeGL from "./components/Globe/GlobeGL";
 import SideBar from "./components/SideBar/SideBar";
 
-import ecuador from './assets/geoJson/ecuador.json';
 import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
 import birdRoutes from './assets/geoJson/birdRoutes.json';
 import volcanos from './assets/geoJson/volcanos.json';
+import tsunamiEarthquakes from './assets/geoJson/tsunamiEarthquakes.json';
 
 import "./App.css";
 import { useState } from "react";
@@ -15,9 +15,9 @@ function App() {
 
   const mockCollections = [
     {
-      title: "Ecuador",
-      description: "The country geodata",
-      collection: ecuador
+      title: "Tsunami and Earthquakes global history and intensity",
+      description: "Data on historical earthquake events",
+      collection: tsunamiEarthquakes
     },
     {
       title: "Northern bird migratory routes",
