@@ -16,10 +16,9 @@ function GlobeGL(props) {
 
   const centerOnLocation = (lat, lng) => {
     console.log("moving the globe", lat, lng)
-    globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 0.8 }, 4000)
+    globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 2 }, 4000)
   }
 
-  // Leaving commented out for now, because the rotations causes alot of rerenders.
   useEffect(() => {
     // Make the globe automatically rotate.
     // if (globalEl !== null) {
@@ -39,7 +38,7 @@ function GlobeGL(props) {
       console.log('Setting polygon data', collection.features)
       setPolygon(collection.features)
     }
-    if (globeType === 'paths'){
+    if (globeType === 'paths') {
       console.log('Setting paths data')
       setPaths(setRandomCoordinates(collection.features))
     }
@@ -60,7 +59,7 @@ function GlobeGL(props) {
         bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
         hexBinPointsData={points}
-        hexAltitude={.01}
+        hexAltitude={d => d.points[0].elevation * 5e-6}
         hexMargin={0}
         hexTopCurvatureResolution={2}
         hexBinResolution={3}
