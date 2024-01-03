@@ -7,7 +7,7 @@ function CollectionCard(props) {
   const collection = props.collection;
 
   return (
-    <Card className="collection-card">
+    <Card border="warning" className="collection-card">
       <Card.Body>
         <Card.Title>{collection.title}</Card.Title>
         <Card.Text>
