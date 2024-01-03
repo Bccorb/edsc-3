@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import Globe from "react-globe.gl";
-
+import setRandomCoordinates from "../../util/setRandomCoordinates";
 import "./GlobeGL.css";
 
 function GlobeGL(props) {
@@ -11,6 +11,7 @@ function GlobeGL(props) {
 
   const [points, setPoints] = useState([]);
   const [polygon, setPolygon] = useState([])
+  const [paths, setPaths] = useState([])
 
 
   const centerOnLocation = (lat, lng) => {
@@ -25,8 +26,9 @@ function GlobeGL(props) {
     //   globalEl.current.controls().autoRotate = true;
     //   globalEl.current.controls().autoRotateSpeed = 0.1;
     // }
-    setPoints([]);
+    setPoints([])
     setPolygon([])
+    setPaths([])
 
     if (globeType === "points") {
       console.log('Setting points data', collection)
@@ -36,6 +38,10 @@ function GlobeGL(props) {
     if (globeType === "polygon") {
       console.log('Setting polygon data', collection.features)
       setPolygon(collection.features)
+    }
+    if (globeType === 'paths'){
+      console.log('Setting paths data')
+      setPaths(setRandomCoordinates(collection.features))
     }
   }, [globeType, collection]);
 
@@ -68,6 +74,13 @@ function GlobeGL(props) {
         polygonsData={polygon}
         polygonCapColor={() => '#FFA500'}
         onPolygonClick={() => { centerOnLocation(76.2, 100.1) }}
+        pathsData={[paths]}
+        pathPointLat="lat"
+        pathPointLng="lng"
+        pathPointAlt="height"
+        pathColor={() => ['rgba(0,0,255,0.6)', 'rgba(255,0,0,0.6)']}
+        pathDashLength={0.01}
+        pathDashGap={0.004}
       />
     </div>
   )

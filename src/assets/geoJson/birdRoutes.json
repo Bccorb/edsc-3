@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "globeType": "paths",
+  "center": {
+      "lat": 40.4, 
+      "lng": 3.7
+  },
+  "features": {
+    "bounds": {
+        "latMin": 0,
+        "latMax": 66,
+        "LongMin": 117,
+        "longMax": 76
+    }
+  }
+}

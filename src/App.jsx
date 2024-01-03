@@ -4,7 +4,7 @@ import SideBar from "./components/SideBar/SideBar";
 import ecuador from './assets/geoJson/ecuador.json';
 import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
-import spain from './assets/geoJson/spain.json';
+import birdRoutes from './assets/geoJson/birdRoutes.json';
 import volcanos from './assets/geoJson/volcanos.json';
 
 import "./App.css";
@@ -20,9 +20,9 @@ function App() {
       collection: ecuador
     },
     {
-      title: "Spain",
-      description: "The country geodata",
-      collection: spain
+      title: "Northern bird migratory routes",
+      description: "Data on bird routes for environmental studies",
+      collection: birdRoutes
     },
     {
       title: "United States of America",
