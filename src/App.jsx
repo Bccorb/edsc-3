@@ -44,7 +44,7 @@ function App() {
   return (
     <>
       <SideBar collections={mockCollections} setCollection={setCurrentCollection} />
-      <GlobeGL focusedCollection={currentCollection.features} center={currentCollection.center} globeType={currentCollection.globeType} />
+      <GlobeGL focusedCollection={currentCollection} />
     </>
   );
 }
