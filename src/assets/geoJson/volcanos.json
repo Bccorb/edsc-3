@@ -1,4 +1,7 @@
 {
+    "meta": {
+        "groupType": "volcano"
+    },
     "type": "FeatureCollection",
     "globeType": "points",
     "center": {

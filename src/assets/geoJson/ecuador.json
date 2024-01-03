@@ -1,4 +1,7 @@
 {
+    "meta": {
+        "groupType": "earthquake"
+    },
     "type": "FeatureCollection",
     "globeType": "polygon",
     "center": {

@@ -2,15 +2,18 @@
     "type": "FeatureCollection",
     "globeType": "heatmap",
     "center": {
-        "lat": 19.8, 
+        "lat": 19.8,
         "lng": 102.4
     },
+    "meta": {
+        "groupType": "earthquake"
+    },
     "features": {
-      "bounds": {
-          "latMin": 53,
-          "latMax": 39,
-          "LongMin": 113,
-          "longMax": 116
-      }
+        "bounds": {
+            "latMin": 53,
+            "latMax": 39,
+            "LongMin": 113,
+            "longMax": 116
+        }
     }
-  }
+}
