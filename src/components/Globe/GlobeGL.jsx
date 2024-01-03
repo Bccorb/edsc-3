@@ -29,6 +29,7 @@ function GlobeGL(props) {
     setPoints([])
     setPolygon([])
     setPaths([])
+    setHeatmap([])
 
     if (globeType === "points") {
       console.log('Setting points data', collection)
