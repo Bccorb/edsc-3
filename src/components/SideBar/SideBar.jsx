@@ -10,6 +10,10 @@ function SideBar(props) {
   const handleSubmit = (e) => {
     e.preventDefault()
     const query = e.target[0].value
+    if (!query) {
+      setCurrentCollections(collections)
+      return
+    }
     const filteredCollections = collections.filter((collectionObj) => collectionObj.collection.meta.groupType === query)
     setCurrentCollections(filteredCollections)
   }
