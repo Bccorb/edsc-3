@@ -2,8 +2,8 @@
     "type": "FeatureCollection",
     "globeType": "points",
     "center": {
-        "lat": 44.5,
-        "lng": -103.4
+        "lat": 0,
+        "lng": 0
     },
     "features": {
         "points": [

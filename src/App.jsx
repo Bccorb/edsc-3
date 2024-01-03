@@ -4,13 +4,15 @@ import SideBar from "./components/SideBar/SideBar";
 import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
 import birdRoutes from './assets/geoJson/birdRoutes.json';
-import volcanos from './assets/geoJson/volcanos.json';
 import tsunamiEarthquakes from './assets/geoJson/tsunamiEarthquakes.json';
 
 import "./App.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import createVolcanoObjects from "./util/createVolcanoObjects";
+
 
 function App() {
+  const volcanos = createVolcanoObjects();
   const [currentCollection, setCurrentCollection] = useState({});
 
   const mockCollections = [
@@ -38,8 +40,13 @@ function App() {
       title:"Volcano Research study",
       description: "A study involving volcanos",
       collection: volcanos
-    }
+    },
+    ...volcanos
   ]
+
+  useEffect(() => {
+    console.log(mockCollections)
+  }, [])
 
   return (
     <>

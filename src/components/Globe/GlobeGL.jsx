@@ -67,7 +67,7 @@ function GlobeGL(props) {
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
         // Points
         hexBinPointsData={points}
-        hexAltitude={d => d.points[0].elevation * 5e-6}
+        hexAltitude={d => d.points[0].elevation * 5e-5}
         hexMargin={0}
         hexTopCurvatureResolution={2}
         hexBinResolution={3}
