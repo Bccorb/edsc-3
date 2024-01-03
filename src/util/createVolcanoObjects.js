@@ -1,14 +1,14 @@
-import volcanos from '../assets/geoJson/volcanos.json';
+import volcanos from '../assets/geoJson/volcanosProject.json';
 
 const createVolcanoObjects = () => {
     const data = volcanos.features.points.map((point) => {
         return {
             title: point.name,
             description: "Volcano Type: " + point.type,
-            meta: {
-                groupType: "volcano"
-            },
             collection: {
+                meta: {
+                    groupType: "volcano"
+                },
                 "globeType": "points",
                 "center": {
                     "lat": point.lat,

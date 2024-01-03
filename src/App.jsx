@@ -5,9 +5,10 @@ import usa from'./assets/geoJson/usa.json';
 import newZealand from './assets/geoJson/newZealandSouthIsland.json';
 import birdRoutes from './assets/geoJson/birdRoutes.json';
 import tsunamiEarthquakes from './assets/geoJson/tsunamiEarthquakes.json';
+import volcanosProject from './assets/geoJson/volcanosProject.json'
 
 import "./App.css";
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import createVolcanoObjects from "./util/createVolcanoObjects";
 
 
@@ -39,7 +40,7 @@ function App() {
     {
       title:"Volcano Research study",
       description: "A study involving volcanos",
-      collection: volcanos
+      collection: volcanosProject
     },
     ...volcanos
   ]
