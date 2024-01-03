@@ -7,10 +7,10 @@ const setRandomCoordinates = (collFeatures) => {
     } = collFeatures.bounds
 
     // Gen random data
-    const numPoints = 300;
+    const numPoints = 200;
     const globeData = [...Array(numPoints).keys()].map(() => ({
       // lat, long, toFixed converts to numerical and is decimal points
-      lat: (Math.random() * ( latMin - latMax) + latMax).toFixed(3) * 1,
+      lat: (Math.random() * ( -latMin - latMax) + latMax).toFixed(3) * 1,
       lng: (Math.random() * (-LongMin - longMax) + longMax).toFixed(3) * 1,
       height: .1
     }))

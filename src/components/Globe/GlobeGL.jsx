@@ -9,13 +9,13 @@ function GlobeGL(props) {
   const globeType = collection.globeType;
   const center = collection.center;
 
-  const [points, setPoints] = useState([]);
+  const [points, setPoints] = useState([])
   const [polygon, setPolygon] = useState([])
   const [paths, setPaths] = useState([])
+  const [heatmap, setHeatmap] = useState([])
 
 
   const centerOnLocation = (lat, lng) => {
-    console.log("moving the globe", lat, lng)
     globalEl.current.pointOfView({ lat: lat, lng: lng, altitude: 0.8 }, 4000)
   }
 
@@ -39,10 +39,16 @@ function GlobeGL(props) {
       console.log('Setting polygon data', collection.features)
       setPolygon(collection.features)
     }
-    if (globeType === 'paths'){
+
+    if (globeType === 'paths') {
       console.log('Setting paths data')
       setPaths(setRandomCoordinates(collection.features))
     }
+
+    if (globeType === 'heatmap') {
+      console.log('Setting heatmap data')
+      setHeatmap(setRandomCoordinates(collection.features))
+    } 
   }, [globeType, collection]);
 
   useEffect(() => {
@@ -59,6 +65,7 @@ function GlobeGL(props) {
         globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
         bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+        // Points
         hexBinPointsData={points}
         hexAltitude={.01}
         hexMargin={0}
@@ -66,14 +73,15 @@ function GlobeGL(props) {
         hexBinResolution={3}
         hexSideColor={() => 'pink'}
         hexTopColor={() => 'red'}
-        hexBinMerge={false}
+        hexBinMege={false}
         enablePointerInteraction={true}
         onHexClick={(d) => {
           centerOnLocation(d.points[0].lat, d.points[0].lng)
         }}
+        // Polygons
         polygonsData={polygon}
         polygonCapColor={() => '#FFA500'}
-        onPolygonClick={() => { centerOnLocation(76.2, 100.1) }}
+        // Paths
         pathsData={[paths]}
         pathPointLat="lat"
         pathPointLng="lng"
@@ -81,6 +89,12 @@ function GlobeGL(props) {
         pathColor={() => ['rgba(0,0,255,0.6)', 'rgba(255,0,0,0.6)']}
         pathDashLength={0.01}
         pathDashGap={0.004}
+        // Heatmaps
+        heatmapsData={[heatmap]}
+        heatmapPointLat="lat"
+        heatmapPointLng="lng"
+        // todo should update func for both keys for now leave the func using height
+        heatmapPointWeight="height"
       />
     </div>
   )
