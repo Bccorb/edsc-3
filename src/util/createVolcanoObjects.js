@@ -1,6 +1,7 @@
 import volcanos from '../assets/geoJson/volcanosProject.json';
 
 const createVolcanoObjects = () => {
+    console.log('creating volcano...')
     const data = volcanos.features.points.map((point) => {
         return {
             title: point.name,

@@ -20,8 +20,7 @@ function SideBar(props) {
 
   return (
     <div className="sidebar">
-      <small>Close filter</small>
-      <h1>Search Earth Data</h1>
+      <h1>EarthData Search</h1>
       <Form onSubmit={handleSubmit}>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Search</Form.Label>

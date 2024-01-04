@@ -1,5 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import Badge from 'react-bootstrap/Badge';
 
 import "./CollectionCard.css";
 
@@ -9,7 +10,7 @@ function CollectionCard(props) {
   return (
     <Card className="collection-card">
       <Card.Body>
-        <Card.Title>{collection.title}</Card.Title>
+        <Card.Title>{collection.title} <Badge bg="secondary">{collection.collection.meta.groupType}</Badge></Card.Title>
         <Card.Text>
           {collection.description}
         </Card.Text>
